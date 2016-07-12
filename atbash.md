@@ -1,13 +1,15 @@
-Atbash is a simple substitution cipher possible with any known alphabet. 
-It emerged around 500-600 BCE. It works by substituting the letters of an alphabet with another.
+Atbash is a simple substitution cipher possible with any known alphabet. It emerged around 500-600 BCE. It works by substituting the letters of an alphabet with another.
 
 English alphabets in order is the constant.
 
 ```CONSTANT = 'abcdefghijklmnopqrstuvwxyz'```
 
-A random shuffle of the constant is the ciper.
-example cipher ```zyxwvutsrqponmlkjihgfedcba```
+A random shuffle of the constant is the ciper. 
+
+Example cipher:  ```zyxwvutsrqponmlkjihgfedcba```
+
 Using the cipher, strings can be encypted.
+
 When the cipher and encrypted text is given it possible to decrypt the encrypted text.
 
 #### Example 1
