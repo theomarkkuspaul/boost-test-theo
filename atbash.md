@@ -1,5 +1,6 @@
 Atbash is a simple substitution cipher possible with any known alphabet. It emerged around 500-600 BCE. It works by substituting the letters of an alphabet with another.
 
+#### Assumptions
 English alphabets in order is the constant.
 
 ```CONSTANT = 'abcdefghijklmnopqrstuvwxyz'```
@@ -8,7 +9,7 @@ A random shuffle of the constant is the ciper.
 
 Example cipher:  ```zyxwvutsrqponmlkjihgfedcba```
 
-Using the cipher, strings can be encypted. When the cipher and encrypted text is given it possible to decrypt the encrypted text.
+Using the cipher, strings can be encypted. When the cipher and encrypted string is given it possible to decrypt the encrypted text.
 
 #### Example 1
 
@@ -37,4 +38,6 @@ encrypted text = 'knlfgnb, sj koqj o yvnewju'
 original text  = ?
 ```
 
-Decrypt the given encrypted text. Any character other than what you have in the constant doesn't have to be replaced.
+1. Decrypt the given encrypted text. 
+2. Any character other than what you have in the constant doesn't have to be replaced.
+3. Add test/spec to your solution.
