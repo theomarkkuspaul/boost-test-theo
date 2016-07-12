@@ -8,9 +8,7 @@ A random shuffle of the constant is the ciper.
 
 Example cipher:  ```zyxwvutsrqponmlkjihgfedcba```
 
-Using the cipher, strings can be encypted.
-
-When the cipher and encrypted text is given it possible to decrypt the encrypted text.
+Using the cipher, strings can be encypted. When the cipher and encrypted text is given it possible to decrypt the encrypted text.
 
 #### Example 1
 
