@@ -28,7 +28,7 @@ encrypted text = 'skd qj qucbjvq?'
 original text  = 'why so serious?'
 ```
 
-#### Challenge
+#### The challenge
 
 ```
 CONSTANT       = 'abcdefghijklmnopqrstuvwxyz'
