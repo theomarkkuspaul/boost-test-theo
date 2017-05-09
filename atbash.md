@@ -41,3 +41,5 @@ original text  = ?
 1. Decrypt the given encrypted text. 
 2. Any character other than what you have in the constant doesn't have to be replaced.
 3. Add test/spec to your solution.
+
+Time: 30 mins
